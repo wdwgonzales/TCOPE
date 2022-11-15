@@ -50,10 +50,12 @@ Every line of utterance has been tagged with an identifier tag. The tag format a
 ##### Version 1 (master)
 The current version stands at 135 million words (as of November 15, 2022). This version is private. If you are interested in the entire corpus, please contact Prof. Wilkinson Daniel Wong Gonzales at wdwonggonzales@cuhk.edu.hk to discuss options.
 
+<br />
+
 ##### Version 1 (public)
-The current public version is roughly 13.5 million words. The data was randomly sampled from the version 1 master corpus using the `sample` function in the `pandas` package in the Python environment. Due to current storage constraints, I am not able to release the entire corpus with its full set of features as of the moment. See previous section for detais. But I hope that the sampled corpus would still be useful for individuals who have memory or storage limitations or individuals who are only interested in conducting brief, exploratory analyses using TCOPE data. I hope to release corpus incrementally over the next few years.
+The current public version is roughly 13.5 million words. The data was randomly sampled from the version 1 master corpus using the `sample` function in the `pandas` package in the Python environment. Due to current storage constraints, I am not able to release the entire corpus with its full set of features as of the moment. See previous section for details. But I hope that the sampled corpus would still be useful for individuals who have memory or storage limitations or individuals who are only interested in conducting brief, exploratory analyses using TCOPE data. I hope to release corpus incrementally over the next few years.
 
-
+<br />
 <br />
 
 ##### Plans for future versions
@@ -107,7 +109,7 @@ Gonzales, Wilkinson Daniel Wong. 2023. Broadening horizons in the diachronic and
 
 
 ### Related papers
-We would highly appreciate it if you can cite these papers alongside the overview paper, if you decide to use or mention my corpus:
+I would highly appreciate it if you can cite these papers alongside the overview paper, if you decide to use or mention my corpus:
 
 
 1. Gonzales, Wilkinson Daniel Wong. 2017. Philippine Englishes. _Asian Englishes_ 19(2): 79–95. Routledge. 
