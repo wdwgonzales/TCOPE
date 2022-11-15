@@ -87,7 +87,6 @@ The current public version of corpus (v1) has two formats:
 They can be downloaded in a compressed ZIP file...
 
 - Via OneDrive: [HERE](https://1drv.ms/u/s!AphIchZOHtHEjfI_HNdn4CqSEsnv5w?e=Cw1buM)
-<br />
 - Via OSF: http://doi.org/10.17605/OSF.IO/3Q5PW
 
 <br />
