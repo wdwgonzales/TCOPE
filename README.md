@@ -137,7 +137,7 @@ https://doi.org/10.1075/jpcl.00057.gon
 
 3. Gonzales, Wilkinson Daniel Wong. 2022. Hybridization. In Ariane Macalinga Borlongan (Ed.) _Philippine English: Development, Structure, and Sociology of English in the Philippines_. London: Routledge. 
 
-4. Gonzales, Wilkinson Daniel Wong. 2022. Interactions of Sinitic languages in the Philippines:  Sinicization, Filipinization, and Sino-Philippine language creation. In Zhengdao Ye (Ed.), _The Palgrave Handbook of Chinese Language Studies_ (pp. 369–408). London: Palgrave-MacMillan. [link]
+4. Gonzales, Wilkinson Daniel Wong. 2022. Interactions of Sinitic languages in the Philippines:  Sinicization, Filipinization, and Sino-Philippine language creation. In Zhengdao Ye (Ed.), _The Palgrave Handbook of Chinese Language Studies_ (pp. 369–408). London: Palgrave-MacMillan.
 
 
 
