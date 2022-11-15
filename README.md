@@ -1,6 +1,6 @@
 # The Twitter Corpus of Philippine Englishes (TCOPE)
 
-![](https://github.com/wdwgonzales/TCOPE/blob/main/banner_tcope.png)
+![](https://github.com/wdwgonzales/TCOPE/blob/main/banner_tcope_2022.jpg?raw=true)
 
 
 ### Overview
