@@ -34,7 +34,8 @@ The current public version of the TCOPE is a "sample" version. As such, please e
 
 #### Collection methodology
 
-Please check out the overview paper on English World-Wide when it comes out!
+Please check out the overview paper on English World-Wide when it comes out! Meanwhile, you can take a look at the pre-print.
+
 <br />
 <br />
 
