@@ -209,12 +209,10 @@ https://doi.org/10.1075/jpcl.00057.gon
 
 The Chinese University of Hong Kong Direct Grant
 <br />
-
 _The linguistic ‘silk road’ in East Asia: Patterns of variation and change in Chinese‐related East Asian contact languages_
-
 (SBRE‐22‐0128)
 <br />
-Principal Investigator: Assistant Professor Wilkinson Daniel Wong Gonzales
+*Principal Investigator*: Assistant Professor Wilkinson Daniel Wong Gonzales
 
 <br />
 <br />
