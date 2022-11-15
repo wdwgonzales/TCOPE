@@ -21,7 +21,7 @@ The Twitter Corpus of Philippine Englishes (TCOPE) is a 135-million-word corpus 
 	- spreadsheet format (csv): primed for analysis using popular data analysis tools such as R and Python
 
 - Is tagged for part-of-speech using [`spaCy`](https://spacy.io/usage/linguistic-features)
-- Contains dependency parsing information derived from  [`spaCy`] (https://spacy.io/usage/linguistic-features#dependency-parse)
+- Contains dependency parsing information derived from  [`spaCy`](https://spacy.io/usage/linguistic-features#dependency-parse)
 
 <br />
 <br />
