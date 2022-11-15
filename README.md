@@ -75,10 +75,13 @@ The current public version is roughly 13.5 million words. The data was randomly 
 #### Downloading the public corpus
 
 The current public version of corpus (v1) has two formats:
+
 - Hierarchical text format (multiple .txt files arranged by year and region)
  	- Plain text version
 	- POS-tagged version
 - Spreadsheet CSV format containing columns with POS-tagged text and Dependency-parsed text (single CSV file)
+
+They can be downloaded [HERE](https://1drv.ms/u/s!AphIchZOHtHEjfI_HNdn4CqSEsnv5w?e=Cw1buM) in a compressed ZIP format.
 
 <br />
 <br />
