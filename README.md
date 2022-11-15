@@ -45,6 +45,8 @@ Every line of utterance has been tagged with an identifier tag. The tag format a
 <br />
 <br />
 
+
+
 #### Corpus Version
 
 ##### Version 1 (master)
@@ -62,6 +64,16 @@ The current public version is roughly 13.5 million words. The data was randomly 
 
 - increased size
 - temporal window expansion (2022 data and beyond)
+
+<br />
+<br />
+
+
+#### Downloading the public corpus
+
+The current public version of corpus (v1) has two formats:
+- Hierarchical text format (multiple .txt files arranged by year and region)
+- Spreadsheet CSV format (singel CSV file)
 
 <br />
 <br />
