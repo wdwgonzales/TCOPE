@@ -139,7 +139,7 @@ https://doi.org/10.1075/jpcl.00057.gon
 
 4. Gonzales, Wilkinson Daniel Wong. 2022. Interactions of Sinitic languages in the Philippines:  Sinicization, Filipinization, and Sino-Philippine language creation. In Zhengdao Ye (Ed.), _The Palgrave Handbook of Chinese Language Studies_ (pp. 369–408). London: Palgrave-MacMillan.
 
-
+They can be downloaded here.
 
 ```
 
