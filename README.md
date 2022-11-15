@@ -81,7 +81,10 @@ The current public version of corpus (v1) has two formats:
 	- POS-tagged version
 - Spreadsheet CSV format containing columns with POS-tagged text and Dependency-parsed text (single CSV file)
 
-They can be downloaded [HERE](https://1drv.ms/u/s!AphIchZOHtHEjfI_HNdn4CqSEsnv5w?e=Cw1buM) in a compressed ZIP format.
+They can be downloaded in a compressed ZIP file...
+
+Via OneDrive: [HERE](https://1drv.ms/u/s!AphIchZOHtHEjfI_HNdn4CqSEsnv5w?e=Cw1buM)
+Via OSF: http://doi.org/10.17605/OSF.IO/3Q5PW
 
 <br />
 <br />
