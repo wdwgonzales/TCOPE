@@ -20,6 +20,9 @@ The Twitter Corpus of Philippine Englishes (TCOPE) is a 135-million-word corpus 
 	- hierarchical text format (txt): primed for concordance software including AntConc, CasualConc
 	- spreadsheet format (csv): primed for analysis using popular data analysis tools such as R and Python
 
+- Is tagged for part-of-speech using `[spaCy]`(https://spacy.io/usage/linguistic-features)
+- Contains dependency parsing information derived from  `[spaCy]` (https://spacy.io/usage/linguistic-features#dependency-parse)
+
 <br />
 <br />
 
@@ -73,7 +76,9 @@ The current public version is roughly 13.5 million words. The data was randomly 
 
 The current public version of corpus (v1) has two formats:
 - Hierarchical text format (multiple .txt files arranged by year and region)
-- Spreadsheet CSV format (singel CSV file)
+ 	- Plain text version
+	- POS-tagged version
+- Spreadsheet CSV format containing columns with POS-tagged text and Dependency-parsed text (single CSV file)
 
 <br />
 <br />
@@ -85,7 +90,7 @@ The current public version of corpus (v1) has two formats:
 <br />
 
 ### Overview paper
-I have an overview paper that was just accepted for publication in English World-Wide, scheduled to be published in 2023. In that paper, I first discuss the considerations that went into TCOPE’s design, the compilation procedure, the format, and access. Then, I demonstrate how it can be used to examine the linguistic features of Philippine English (PhilE) as well as the relationship between these features and other language-internal and language-external factors (e.g., ethno-geographic region, time, age, sex) insightfully. The paper focuses on four documented PhilE features: (1) the use of irregular past tense morpheme -t, (2) double comparatives, (3) subjunctive were in subordinate counterfactual clauses, and (4) the phrasal verb base from. A distributional analysis of these features without considering other factors generally indicated similar patterning as previous work. A deeper analysis of the data using Bayesian multivariate regression revealed structured heterogeneity within PhilE, pointing to the multifaceted and dynamic nature of the variety. Because of its large size, sampling distribution, and its availability in different formats, TCOPE can be used to investigate ‘general’ contemporary PhilE as well as different types of variation within this PhilE. It can broaden horizons in the diachronic and sociolinguistic study of Philippine English(es).
+I have an overview paper that was just accepted for publication in _English World-Wide_, scheduled to be published in 2023. In that paper, I first discuss the considerations that went into TCOPE’s design, the compilation procedure, the format, and access. Then, I demonstrate how it can be used to examine the linguistic features of Philippine English (PhilE) as well as the relationship between these features and other language-internal and language-external factors (e.g., ethno-geographic region, time, age, sex) insightfully. The paper focuses on four documented PhilE features: (1) the use of irregular past tense morpheme -t, (2) double comparatives, (3) subjunctive were in subordinate counterfactual clauses, and (4) the phrasal verb base from. A distributional analysis of these features without considering other factors generally indicated similar patterning as previous work. A deeper analysis of the data using Bayesian multivariate regression revealed structured heterogeneity within PhilE, pointing to the multifaceted and dynamic nature of the variety. Because of its large size, sampling distribution, and its availability in different formats, TCOPE can be used to investigate ‘general’ contemporary PhilE as well as different types of variation within this PhilE. It can broaden horizons in the diachronic and sociolinguistic study of Philippine English(es).
 
 You can find the pre-print here.
 
