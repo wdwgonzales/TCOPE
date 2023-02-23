@@ -37,7 +37,7 @@ The current public version of the TCOPE is a "sample" version. As such, please e
 
 #### Collection methodology
 
-Please check out the overview paper on English World-Wide when it comes out! Meanwhile, you can take a look at the pre-print.
+Please check out the overview paper on English World-Wide when it comes out! Meanwhile, you can take a look at the [pre-print](https://osf.io/q5yxk).
 
 <br />
 <br />
@@ -86,8 +86,7 @@ The current public version of corpus (v1) has two formats:
 
 They can be downloaded in a compressed ZIP file...
 
-- Via OneDrive: [HERE](https://1drv.ms/u/s!AphIchZOHtHEjfI_HNdn4CqSEsnv5w?e=Cw1buM)
-- Via OSF: http://doi.org/10.17605/OSF.IO/3Q5PW
+- Via OSF: [https://osf.io/bjzpf](https://osf.io/bjzpf)
 
 <br />
 <br />
@@ -101,8 +100,9 @@ They can be downloaded in a compressed ZIP file...
 ### Overview paper
 I have an overview paper that was just accepted for publication in _English World-Wide_, scheduled to be published in 2023. In that paper, I first discuss the considerations that went into TCOPE’s design, the compilation procedure, the format, and access. Then, I demonstrate how it can be used to examine the linguistic features of Philippine English (PhilE) as well as the relationship between these features and other language-internal and language-external factors (e.g., ethno-geographic region, time, age, sex) insightfully. The paper focuses on four documented PhilE features: (1) the use of irregular past tense morpheme -t, (2) double comparatives, (3) subjunctive were in subordinate counterfactual clauses, and (4) the phrasal verb base from. A distributional analysis of these features without considering other factors generally indicated similar patterning as previous work. A deeper analysis of the data using Bayesian multivariate regression revealed structured heterogeneity within PhilE, pointing to the multifaceted and dynamic nature of the variety. Because of its large size, sampling distribution, and its availability in different formats, TCOPE can be used to investigate ‘general’ contemporary PhilE as well as different types of variation within this PhilE. It can broaden horizons in the diachronic and sociolinguistic study of Philippine English(es).
 
-You can find the pre-print [here](https://github.com/wdwgonzales/TCOPE/tree/main/Related%20papers).
+You can find the pre-print [here](https://osf.io/q5yxk).
 
+[https://osf.io/q5yxk](https://osf.io/q5yxk)
 
 <br />
 <br />
