@@ -114,7 +114,7 @@ Please cite the overview paper if you use my corpus or mention it in your work.
 <br />
 <br />
 
-Gonzales, Wilkinson Daniel Wong. 2023. Broadening horizons in the diachronic and sociolinguistic study of Philippine English with the Twitter Corpus of Philippine Englishes (TCOPE). _English World-Wide_, John Benjamins.
+Gonzales, Wilkinson Daniel Wong. In press. Broadening horizons in the diachronic and sociolinguistic study of Philippine English with the Twitter Corpus of Philippine Englishes (TCOPE). _English World-Wide_, John Benjamins.
 
 <br />
 <br />
@@ -125,7 +125,7 @@ Gonzales, Wilkinson Daniel Wong. 2023. Broadening horizons in the diachronic and
 	copyright = {CC0 1.0 Universal Public Domain Dedication},
 	journal = {English World-Wide},
 	author = {Gonzales, Wilkinson Daniel Wong},
-	year = {2023},
+	year = {in press},
 }
 
 ```
